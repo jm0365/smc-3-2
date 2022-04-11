@@ -16,7 +16,8 @@ public class array {
 				j = i+1;
 			}
 		}
-		System.out.println("가장 큰 수는 "+ j+"번째 숫자인"+max);
+		System.out.println("가장 큰 수는  "+ j+"번째 숫자인"+max);
 	}
 }
+
 
