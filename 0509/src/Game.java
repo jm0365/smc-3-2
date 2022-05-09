@@ -8,7 +8,7 @@ public class Game {
 		if(i==0) System.out.println("가위");
 		else if(i==1) System.out.println("바위");
 		else if(i==2) System.out.println("보");
-		
+		//test
 		if(a.equals("가위")) {
 			if(i==0) System.out.println("비겼다");
 			else if(i==1) System.out.println("졌다");
